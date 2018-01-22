@@ -1,0 +1,32 @@
+#main-container{
+    margin: 0 5%;    
+}
+
+#image{
+    width:400px;
+    height:400px;
+}
+#catPicker{
+    float: left;
+    margin-right: 5em;
+    margin-top: 15px;
+}
+.catOption {
+    display: block;
+    margin-top: 20px;
+    height: 50px;
+}
+#catArea{
+    float: left;
+}
+#admin{
+    height: 50px;
+    margin-top: 2.8em;
+    margin-left: 5em;
+    float: left;
+}
+#adminArea {
+    float: left;
+    margin-top: 100px;
+    margin-left: -60px;
+}
